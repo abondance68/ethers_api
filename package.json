@@ -1,0 +1,16 @@
+{
+  "name": "ethersjs_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Laurent Knauss",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "chalk": "^5.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.9"
+  }
+}
